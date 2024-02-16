@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AbstractUI
+comment0.text=\n\ Includes\ swing\ elements\ Settings,\ Stats,\ and\ other\ generic\ ui\ features\n
+comment1.params=
+comment1.target=AbstractUI()
+numComments=2
